@@ -1,6 +1,6 @@
 # Яндекс Музыка
 Сравнение музыкальных предпочтений жителей Москвы и Петербурга окружено.
-[html](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.md)    [ipynb](https://github.com/Lud2022/My-Portfolio/blob/main/Project%20Music/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0.html)
+[html](https://github.com/Lud2022/My-Portfolio/blob/main/Project%20Music/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0.html)    [ipynb](https://github.com/Lud2022/My-Portfolio/blob/main/Project%20Music/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0.html)
  
 **Цель исследования** — проверьте три гипотезы:
 1. Активность пользователей зависит от дня недели. 
