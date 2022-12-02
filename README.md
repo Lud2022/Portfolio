@@ -7,3 +7,4 @@
 | 1.   | [Исследования музыкальных предпочтений жителей Москвы и Санкт-Петербурга](https://github.com/Lud2022/My-Portfolio/tree/main/Project%20Music) | Проверка трех гипотез | python, pandas       |
 | 2.   | [Исследование надежности заемщиков](https://github.com/aq2003/Portfolio/tree/main/Taxi%20Service) | Оценка влияния семейноого положения и количества детей клиента <br/>на факт погашения кредита в срок | python, pandas |
 | 3.   | [Исследование данных о российском кинопрокате](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Определение влияния государственной поддержки на окупаемость и рейтинг             | python, pandas, numpy, nltk, sklearn, CatBoost |
+| 4.   | [] | jkhkjh | hjhjh |
