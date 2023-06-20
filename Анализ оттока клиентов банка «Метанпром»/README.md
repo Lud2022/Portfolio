@@ -1,6 +1,6 @@
 # Анализ оттока клиентов банка «Метанпром»
 
-[html](https://github.com/Lud2022/My-Portfolio/blob/main/Project%20Music/Проект%20Яндекс%20музыка.html)    [ipynb](https://github.com/Lud2022/My-Portfolio/blob/main/Project%20Music/Проект%20Яндекс%20музыка.ipynb)
+[html](https://github.com/Lud2022/Portfolio/blob/main/Анализ%20оттока%20клиентов%20банка%20«Метанпром»/Анализ%20оттока%20клиентов%20банка.html)    [ipynb](https://github.com/Lud2022/My-Portfolio/blob/main/Project%20Music/Проект%20Яндекс%20музыка.ipynb)
 [Презентация](https://github.com/Lud2022/Portfolio/blob/main/Анализ%20оттока%20клиентов%20банка%20«Метанпром»/Анализ%20оттока%20клиентов%20банка%20«Метанпром».pdf)
 [Дашборд:](https://public.tableau.com/views/diplom_16864866061580/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
  
