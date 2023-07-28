@@ -1,6 +1,6 @@
 # Проект Яндекс-Музыка
 
-[html](https://github.com/Lud2022/Yandex_practicum/blob/main/Проект%20Яндекс-Музыка/Музыка%20больших%20городов.html)  [ipynb](https://github.com/Lud2022/Portfolio/blob/main/Проект%20Яндекс-Музыка/Яндекс%20Музыка.ipynb)
+[html](https://github.com/Lud2022/Yandex_practicum/blob/main/Проект%20Яндекс-Музыка/Музыка%20больших%20городов.html)  [ipynb](https://github.com/Lud2022/Yandex_practicum/blob/main/Проект%20Яндекс-Музыка/Музыка%20больших%20городов.ipynb)
  
 **Цель:** Проверить три гипотезы:
 * Активность пользователей зависит от дня недели. Причём в Москве и Петербурге это проявляется по-разному.
